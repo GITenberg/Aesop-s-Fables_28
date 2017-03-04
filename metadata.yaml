@@ -1,5 +1,8 @@
 _repo: Aesop-s-Fables_28
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Aesop
@@ -10,6 +13,8 @@ creator:
 description: Planned as PG's second Aesop extext. See also comprehensive versions
   PG#21 tr. by George Fyler Townsend, PG#11339 tr. by V. S. Vernon Jones, and illustrated
   PG#18732.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28#Aesop-s-Fables
 gutenberg_bookshelf: Harvard Classics
 gutenberg_issued: '1992-03-01'
 gutenberg_type: Text
